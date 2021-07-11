@@ -2,6 +2,8 @@ body {
 	color: #484848;
 	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	min-height: 100vh;
+	width: auto;
+	padding-bottom: 40px;
 }
 
 .container {
